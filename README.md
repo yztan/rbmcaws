@@ -7,7 +7,7 @@ Diploma in Computer Engineering
 
 Under the guidance of:  
 Teo Shin Jen  
-Senior Lecturer
+Senior Lecturer  
 School of Electrical and Electronic Engineering  
 
 Sing Mong Huang  
