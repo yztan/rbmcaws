@@ -10,8 +10,8 @@ Teo Shin Jen
 Senior Lecturer
 School of Electrical and Electronic Engineering  
 
-Sing Mong Huang
-Senior Lecturer
+Sing Mong Huang  
+Senior Lecturer  
 School of Electrical and Electronic Engineering
 
 Supervised by:  
