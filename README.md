@@ -3,7 +3,8 @@ Created as part of Singapore Polytechnic's IC4001 Internship module in Academic 
 
 ## Done by:  
 Tan Yong Ziab  
-Diploma in Computer Engineering
+Diploma in Computer Engineering  
+School of Electrical and Electronic Engineering
 
 ## Under the guidance of:  
 Teo Shin Jen  
