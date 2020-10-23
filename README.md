@@ -10,6 +10,10 @@ Teo Shin Jen
 Senior Lecturer
 School of Electrical and Electronic Engineering  
 
+Sing Mong Huang
+Senior Lecturer
+School of Electrical and Electronic Engineering
+
 Supervised by:  
 Mr Rafael Alzate  
 Singapore Polytechnic SPINOFF  
