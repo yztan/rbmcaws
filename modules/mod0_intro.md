@@ -5,4 +5,4 @@ The purpose of this course is to teach the basics of Robot OS (ROS) via Amazon W
 ## What you will learn
 WIP I need ideas on how to write course objectives  
 
-### [Next](./modules/mod1_basics.md)
+### [Next](./mod1/mod1_basics.md)
